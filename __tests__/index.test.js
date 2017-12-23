@@ -1,4 +1,4 @@
-import main from '../src/'
+import main from '../src/lib/'
 
 describe('main', () => {
   test('exports', () => {
