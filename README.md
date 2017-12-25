@@ -20,7 +20,7 @@ This is a boilerplate I use for quickly getting started with a (relatively) clea
 ### Installation
 
 ```bash
-  git clone rakannimer/rn-js-library MY_LIBRARY_NAME
+  git clone https://github.com/rakannimer/rn-js-library MY_LIBRARY_NAME
   cd MY_LIBRARY_NAME && rm -rf ./.git
   yarn install
 ```
